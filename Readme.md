@@ -33,64 +33,118 @@ This part includes:
 
 1. What is data modeling?
    <p align="center">
-    <img src="./images/p2m1l1_dm_1.png"  >
+    <img src="./images/P2M1_L1/p2m1l1_dm_1.png"  >
     </p>
 
 2. Intro to relational database
     <p align="center">
-    <img src="./images/p2m1l1_5_intro_rd_1.png"  >
-    <img src="./images/p2m1l1_5_intro_rd_2.png"  >
-    <img src="./images/p2m1l1_5_intro_rd_3.png"  >
+    <img src="./images/P2M1_L1/p2m1l1_5_intro_rd_1.png"  >
+    <img src="./images/P2M1_L1/p2m1l1_5_intro_rd_2.png"  >
+    <img src="./images/P2M1_L1/p2m1l1_5_intro_rd_3.png"  >
 
-    <img src="./images/p2m1l1_5_intro_rd_4.png"  >
+    <img src="./images/P2M1_L1/p2m1l1_5_intro_rd_4.png"  >
     </p>
 
 3. When to use relational database?
     <p align="center">
-    <img src="./images/p2m1l1_6_pros_rd.png"  >
+    <img src="./images/P2M1_L1/p2m1l1_6_pros_rd.png"  >
     </p>
 
 4. ACID transactions:
    <p align="center">
-    <img src="./images/p2m1l1_7_acid.png"  >
+    <img src="./images/P2M1_L1/p2m1l1_7_acid.png"  >
     </p>
 
 5. when not to use relational database?
    <p align="center">
-    <img src="./images/p2m1l1_8_not_use_rd.png"  >
+    <img src="./images/P2M1_L1/p2m1l1_8_not_use_rd.png"  >
     </p>
 
 6. Introduction to NoSQL database
     <p align="center">
-    <img src="./images/p2m1l1_14_nosql_1.png"  >
+    <img src="./images/P2M1_L1/p2m1l1_14_nosql_1.png"  >
 
-    <img src="./images/p2m1l1_14_nosql_2.png"  >
+    <img src="./images/P2M1_L1/p2m1l1_14_nosql_2.png"  >
     </p>
 
 7. When to use NoSQL database?
    <p align="center">
-    <img src="./images/p2m1l1_16_prons_nosql.png"  >
+    <img src="./images/P2M1_L1/p2m1l1_16_prons_nosql.png"  >
     </p>
 
 8. When not to use NoSQL database?
    <p align="center">
-    <img src="./images/p2m1l1_16_nouse_nosql.png"  >
+    <img src="./images/P2M1_L1/p2m1l1_16_nouse_nosql.png"  >
     </p>
 
     There are some NoSQL databases that offer some form of ACID transaction, Such as MongoDB, MarkLogic.
 
 9. The basics of Apache Cassandra
     <p align="center">
-    <img src="./images/p2m1l1_15_basic_ac_1.png"  >
-    <img src="./images/p2m1l1_15_basic_ac_2.png"  >
+    <img src="./images/P2M1_L1/p2m1l1_15_basic_ac_1.png"  >
+    <img src="./images/P2M1_L1/p2m1l1_15_basic_ac_2.png"  >
     </p>
 
 ### 2.2 Relational data models with PostgreSQL database
 
+1. OLAP vs OLTP
+   <p align="center">
+    <img src="./images/P2M1_L2/OLAP_OLTP.png"  >
+    </p>
 
+2. Normalization
+    <p align="center">
+    <img src="./images/P2M1_L2/normalization.png"  >
+    </p>
+3. Normal Form
+   <p align="left">
+    <img src="./images/P2M1_L2/nm_1.png"  >
+    <img src="./images/P2M1_L2/nm_2.png"  >
+    <img src="./images/P2M1_L2/1nf.png"  >
+    <img src="./images/P2M1_L2/2nf.png"  >
+    <img src="./images/P2M1_L2/3nf.png"  >
+    </p>
+
+4. Denormalization
+   <p align="center">
+    <img src="./images/P2M1_L2/denorm.png"  >
+    </p>
+
+5. Fact and Dimension Tables 
+   <p align="center">
+    <img src="./images/P2M1_L2/fact.png"  >
+    <img src="./images/P2M1_L2/dim.png"  >
+    </p>
+
+6. Star Schema vs Snowflake Schema
+- Star Schema
+  <p align="left">
+    <img src="./images/P2M1_L2/star_s_1.png"  >
+    <img src="./images/P2M1_L2/star_s_2.png"  >
+    <img src="./images/P2M1_L2/star_s_3.png"  >
+    </p>
+
+- Snowflake Schema
+  <p align="left">
+    <img src="./images/P2M1_L2/snow_s_1.png"  >
+    <img src="./images/P2M1_L2/snow_s_2.png"  >
+    </p>
+
+- Comparison
+  <p align="center">
+    <img src="./images/P2M1_L2/star_snow.png"  >
+    </p>
+
+7. Some important constraints and clauses
+- NOT NULL
+- UNIQUE
+- PRIMARY KEY
+- ON CONFLICT DO NOTHING
+- ON CONFLICT DO UPDATE
 
 ### 2.3 Project 1a: Data Modeling with Postgres
 
+Check the blog [here](https://ycheng22.github.io/Data_Modeling_with_PostgreSQL/)
 
 ### 2.4 NoSQL data models with Apache Cassandra
 
