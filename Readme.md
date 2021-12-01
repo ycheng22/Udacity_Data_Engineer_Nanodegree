@@ -148,7 +148,65 @@ Check the blog [here](https://ycheng22.github.io/Data_Modeling_with_PostgreSQL/)
 
 ### 2.4 NoSQL data models with Apache Cassandra
 
+1. When to use NoSQL
+    <p align="center">
+    <img src="./images/P2M1_L3/use_nosql.png"  >
+    </p>
+
+2. Apache Cassandra
+   <p align="center">
+    <img src="./images/P2M1_L3/apache_cassandra.png"  >
+    </p>
+
+3. CAP Theroem
+   <p align="left">
+    <img src="./images/P2M1_L3/cap_1.png"  >
+    <img src="./images/P2M1_L3/cap_2.png"  >
+    </p>
+
+    According to the CAP theorem, a database can actually only guarantee two out of the three in CAP. So supporting Availability and Partition Tolerance makes sense, since Availability and Partition Tolerance are the biggest requirements. 
+
+4. Denormalization
+   <p align="left">
+    <img src="./images/P2M1_L3/denorm_1.png"  >
+    <img src="./images/P2M1_L3/denorm_2.png"  >
+    <img src="./images/P2M1_L3/denorm_3.png"  >
+    </p>
+
+5. CQL
+   <p align="center">
+    <img src="./images/P2M1_L3/CQL.png"  >
+    </p>
+
+6. Primary Key
+   <p align="left">
+    <img src="./images/P2M1_L3/primary_key_1.png"  >
+    <img src="./images/P2M1_L3/primary_key_2.png"  >
+    <img src="./images/P2M1_L3/primary_key_3.png"  >
+    <img src="./images/P2M1_L3/primary_key_4.png"  >
+    <img src="./images/P2M1_L3/primary_key_5.png"  >
+    </p>
+
+7. Clustering Columns
+   
+	- The clustering column will sort the data in sorted **ascending** order, e.g., alphabetical order. Note: this is a mistake in the video, which says descending order. 
+	- More than one clustering column can be added (or none!) 
+    - From there the clustering columns will sort in order of how they were added to the primary key 
+    <p align="left">
+    <img src="./images/P2M1_L3/cluster_col_1.png"  >
+    <img src="./images/P2M1_L3/cluster_col_2.png"  >
+    </p>
+
+8. Where Clause
+    <p align="left">
+    <img src="./images/P2M1_L3/where_1.png"  >
+    <img src="./images/P2M1_L3/where_2.png"  >
+    <img src="./images/P2M1_L3/where_3.png"  >
+    </p>
+
 ### 2.5 Project 1b: Data Modeling with Apache Cassandra
+
+Check the blog [here](#).
 
 ## Part 3: Cloud Data Warehouses 
 
