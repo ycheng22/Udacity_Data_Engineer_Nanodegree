@@ -20,7 +20,7 @@ This is a course from [Udacity](https://www.udacity.com/course/data-engineer-nan
   - [4.2 Data Wrangling with Spark](#42-data-wrangling-with-spark)
   - [4.3 Setting up Spark Clusters with AWS](#43-setting-up-spark-clusters-with-aws)
   - [4.4 Debugging and Optimization](#44-debugging-and-optimization)
-- [4.5 Introduction to Data Lakes](#45-introduction-to-data-lakes)
+  - [4.5 Introduction to Data Lakes](#45-introduction-to-data-lakes)
   - [4.6 Project: Data Lake.](#46-project-data-lake)
 - [Part 5: Data Pipelines with Airflow (unfinished)](#part-5-data-pipelines-with-airflow-unfinished)
 - [Part 6: Capstone Project (unfinished)](#part-6-capstone-project-unfinished)
