@@ -639,7 +639,7 @@ This part includes:
     - [Spark](https://spark.apache.org/docs/latest/tuning.html)
     - [Spark SQL]( https://spark.apache.org/docs/latest/sql-performance-tuning.html)
 
-## 4.5 Introduction to Data Lakes
+### 4.5 Introduction to Data Lakes
 
 1. Data lakes
    <p align="left">
