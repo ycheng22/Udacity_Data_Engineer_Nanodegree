@@ -7,21 +7,21 @@ This is a course from [Udacity](https://www.udacity.com/course/data-engineer-nan
 - [Part 2: Data Modeling](#part-2-data-modeling)
   - [2.1 Introduction to data modeling](#21-introduction-to-data-modeling)
   - [2.2 Relational data models with PostgreSQL database](#22-relational-data-models-with-postgresql-database)
-  - [2.3 Project 1a: Data Modeling with Postgres](#23-project-1a-data-modeling-with-postgres)
+  - `[2.3 Project 1a: Data Modeling with Postgres](#23-project-1a-data-modeling-with-postgres)`
   - [2.4 NoSQL data models with Apache Cassandra](#24-nosql-data-models-with-apache-cassandra)
-  - [2.5 Project 1b: Data Modeling with Apache Cassandra](#25-project-1b-data-modeling-with-apache-cassandra)
+  - `[2.5 Project 1b: Data Modeling with Apache Cassandra](#25-project-1b-data-modeling-with-apache-cassandra)`
 - [Part 3: Cloud Data Warehouses](#part-3-cloud-data-warehouses)
   - [3.1 Introduction to Data Warehouses](#31-introduction-to-data-warehouses)
   - [3.2 Introduction to Cloud Computing and AWS](#32-introduction-to-cloud-computing-and-aws)
   - [3.3 Implementing Data Warehouses on AWS](#33-implementing-data-warehouses-on-aws)
-  - [3.4 Project: Data Warehouse](#34-project-data-warehouse)
+  - `[3.4 Project: Data Warehouse](#34-project-data-warehouse)`
 - [Part 4: Data Lakes with Spark](#part-4-data-lakes-with-spark)
   - [4.1 The Power of Spark](#41-the-power-of-spark)
   - [4.2 Data Wrangling with Spark](#42-data-wrangling-with-spark)
   - [4.3 Setting up Spark Clusters with AWS](#43-setting-up-spark-clusters-with-aws)
   - [4.4 Debugging and Optimization](#44-debugging-and-optimization)
   - [4.5 Introduction to Data Lakes](#45-introduction-to-data-lakes)
-  - [4.6 Project: Data Lake.](#46-project-data-lake)
+  - `[4.6 Project: Data Lake.](#46-project-data-lake)`
 - [Part 5: Data Pipelines with Airflow (unfinished)](#part-5-data-pipelines-with-airflow-unfinished)
 - [Part 6: Capstone Project (unfinished)](#part-6-capstone-project-unfinished)
 
